@@ -15,7 +15,7 @@ def bin2dec(numero_binario):
     return numero_decimal
 
 # ----------------------------------------
-# Hola, chicos
+# CONFLICTO GRRR
 # ----------------------------------------
 if __name__ == "__main__":
     # Pide al usuario el número binario a convertir 
